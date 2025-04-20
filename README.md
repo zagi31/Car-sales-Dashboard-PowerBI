@@ -1,5 +1,6 @@
 The Car Sales dashboard was created for educational and recruitment purposes, as a presentation of skills in data modeling, creating dynamic visualizations, and designing user-friendly interfaces in Power BI.
 ![car sales dashboard](https://raw.githubusercontent.com/zagi31/Car-sales-Dashboard-PowerBI/main/page1_dashboard_sc.jpg)
+
 🧩 Stage 1: Data Modeling
 
 - Data import and cleaning: Preparing raw data, removing duplicates and invalid values.
